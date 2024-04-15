@@ -1,0 +1,6 @@
+m=input("Ingrese una letra: ")
+n=int(input("Ingrese un número entero: "))
+o=type(m)
+p=type(n)
+print("El tipo de dato es: ", o)
+print("El tipo de dato es: ", p)
