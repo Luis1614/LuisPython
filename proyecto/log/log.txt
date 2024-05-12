@@ -1,0 +1,6 @@
+2024-05-12 04:08:55.760843|Realizo la carga de archivo
+2024-05-12 04:08:59.609740|Realizo el reporte
+2024-05-12 04:10:52.782362|Realizo la carga de archivo
+2024-05-12 04:11:09.100319|Realizo el reporte
+2024-05-12 04:11:14.066006|Realizo el reporte
+2024-05-12 04:11:15.269560|Realizo el grafico
